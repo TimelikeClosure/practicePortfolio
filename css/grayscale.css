@@ -77,6 +77,9 @@ a:focus {
 .navbar-custom a {
   color: black;
 }
+.navbar-custom.navbar-custom.top-nav-collapse a {
+  color: white;
+}
 .navbar-custom .nav li a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
